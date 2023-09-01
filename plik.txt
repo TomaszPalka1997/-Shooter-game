@@ -1,0 +1,6 @@
+Gracz strzela spacja, natomiast poruszanie odbywa sie za pomoca strzałek. W celu wygrania nie trzeba zestrzelic wszystkich przeciwników, ale jest to pozadane aby uzyskac jak najlepszy wynik. 
+Wygrana nastepuje po pokonaniu bosa. Uzytkownik porusza sie tylko na boki, 
+zwykli przeciwnicy przesuwaja sie w jego kierunku, natomiast bos podobnie jak gracz takze porusza sie na boki po przeciwnejstronie mapy. 
+Przegrana nastepuje gdy punkty zycia gracza wyniosa 0 Przeciwnicy jednym strzalem zadaja 
+jeden punkt obrazen, maja 2 punkty zycia, a gracz na najlatwiejszym poziomie zadaje 2 punkty obrazen, 
+natomiast na najtrudniejszym 1. W zaleznosci od poziomu trudnosci gracz ma poczatkowo kolejno 3, 6 i 9 punktow zycia.
